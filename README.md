@@ -13,7 +13,7 @@ Crosshair X is a powerful open-source custom crosshair overlay utility for compe
 [!Important] This custom overlay utility is provided for educational and personal use only. Always download from trusted sources. Use at your own risk and make sure to support the official developers.
 
 # Screenshot:
-<img width="1450" height="860" alt="image" src="https://github.com/user-attachments/assets/0ff420c5-c6a9-487c-99f1-ce22732cdfdc" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/13df78f5-0720-4c11-8738-c1a462ed1943" />
 
 ---
 
