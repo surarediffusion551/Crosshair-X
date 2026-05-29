@@ -1,6 +1,6 @@
 # Crosshair X
 Crosshair X — crosshair x free download valorant cs2 custom crosshair overlay extension pro presets steam epic games windows 11 latest 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c57bed6e-ffde-4bc1-9e8c-6686eef0e24c" />
+<img width="115" height="115" alt="image" src="https://github.com/user-attachments/assets/c8a7b0c5-79f5-4ac7-90a1-5c0db54d96bf" />
 
 [![GitHub Stars](https://img.shields.io/github/stars/rasoir0591/Crosshair-X?style=flat-square&color=00d4aa)](https://github.com/rasoir0591/Crosshair-X/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/rasoir0591/Crosshair-X?style=flat-square&color=0099cc)](https://github.com/rasoir0591/Crosshair-X/network)
